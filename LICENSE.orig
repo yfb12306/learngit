@@ -1,0 +1,11 @@
+this is a test
+a
+b
+c
+d
+Creating a new branch is fast 
+<<<<<<< HEAD
+Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
